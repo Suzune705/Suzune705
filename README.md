@@ -3,15 +3,15 @@
 <div align="center">
 
   <!-- Stats bên trái -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Suzune705&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Suzune705&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suzune705&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Suzune705&theme=dracula&hide_border=false" height="170"/>
   
 </div>
 
 <div align="center">
 
   <!-- Most Used Languages bên phải -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact" height="170"/>
 
 </div>
 
