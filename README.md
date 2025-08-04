@@ -1,4 +1,18 @@
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suzune705.Suzune705" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suzune!;" />
+</h1>
+
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,html,css,github,javascript" />
+</div>
+
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -13,14 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact&cache_seconds=1" height="170"/>
 
 </div>
-
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![](https://visitcount.itsvg.in/api?id=Suzune705&icon=0&color=0)](https://visitcount.itsvg.in)
