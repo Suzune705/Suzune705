@@ -6,7 +6,7 @@
 </h1>
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,javascript,github,idea,vscode" />
@@ -15,7 +15,7 @@
 <br/>
   
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h1 align="center">⚡ GitHub Stats ⚡</h1>
 
 <div align="center">
 
