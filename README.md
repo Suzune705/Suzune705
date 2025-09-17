@@ -20,14 +20,16 @@
 
 
  <img src="https://my-readme-stats-eight.vercel.app/api?username=Suzune705&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+ 
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Suzune705&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
   
 </div>
 
 <div align="center">
+    
+<img src="https://my-readme-stats-eight.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact&cache_seconds=1" height="170"/>
 
 </div>
 
