@@ -29,3 +29,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact&cache_seconds=1" height="170"/>
 
 </div>
+
+ <h2 align="center"> 🏆 LeetCode Stats 🏆 </h2>
+
+<div align="center">
+    
+    
+[![](https://leetcard.jacoblin.cool/suzune4869?font=Dancing_Script)](https://leetcode.com/suzune4869/)
+
+
+</div>
+
+
+
