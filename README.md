@@ -36,12 +36,22 @@
  <h2 align="center"> 🏆 LeetCode Stats 🏆 </h2>
 
 <div align="center">
-
     
-  ![](https://leetcard.jacoblin.cool/suzune4869?ext=activity)
+  <div>
+      
+ [![Suzune's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML)](https://github.com/anuraghazra/github-readme-stats)
+      
+  </div>  
+  <div>
+      
+![](https://leetcard.jacoblin.cool/suzune4869?ext=activity)
+        
+  </div>
 
 
 </div>
+
+
 
 
 
