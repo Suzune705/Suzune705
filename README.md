@@ -39,9 +39,11 @@
     
   <div>
       
- [![Suzune's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML)](https://github.com/anuraghazra/github-readme-stats)
-      
+[![Suzune's Activity (Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML&range=last_7_days&custom_title=Suzune's%20Activity%20(Last%207%20Days))](https://github.com/anuraghazra/github-readme-stats)
+
+
   </div>  
+  
   <div>
       
 ![](https://leetcard.jacoblin.cool/suzune4869?ext=activity)
@@ -50,8 +52,4 @@
 
 
 </div>
-
-
-
-
 
