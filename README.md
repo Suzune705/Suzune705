@@ -33,30 +33,28 @@
 
 </div>
 
-
-
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
+
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none; background:none;">
-  <tr>
-    <td style="border:none; background:none; padding:0 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML&range=last_7_days&layout=compact&custom_title=Suzune%27s%20Activity%20(Last%207%20Days)&theme=dracula"
-           height="300"
-           alt="Suzune's Activity (Last 7 Days)"
-           style="border:none; outline:none; background:none; box-shadow:none;"/>
-    </td>
-    <td style="border:none; background:none; padding:0 10px;">
-      <img src="https://leetcard.jacoblin.cool/suzune4869?ext=activity"
-           height="300"
-           alt="Suzune's LeetCode Activity"
-           style="border:none; outline:none; background:none; box-shadow:none;"/>
-    </td>
-  </tr>
-</table>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&layout=compact&theme=dracula&custom_title=Suzune%27s%20All%20Time%20Activity&hide_border=true&langs_count=5&hide=SQL,Text,Other,JSON,Sublime%20Text%20Config,JSON%20with%20Comments,PowerShell,Java%20module,C%23,Git%20Config,GitIgnore%20file,TypeScript,IDEA_MODULE,CLASS,XML"
+    height="300"
+    alt="Suzune's All Time Activity"
+    style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255, 121, 198, 0.5);"
+  />
 </div>
+<div align="center">
+  <span style="display:inline-block; padding:0 10px;">
+    <img 
+      src="https://leetcard.jacoblin.cool/suzune4869?ext=activity&theme=dark"
+      height="330"
+      alt="Suzune's LeetCode Activity"
+      style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255,121,198,0.5);"
+    />
+  </span>
+</div>
+
 
 
 
