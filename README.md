@@ -39,10 +39,7 @@
     
   <div>
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzune705&layout=compact&theme=dracula)
-
-
-
+[![Suzune's Activity (Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML&range=last_7_days&layout=compact&custom_title=Suzune%27s%20Activity%20(Last%207%20Days)&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </div>  
