@@ -33,23 +33,30 @@
 
 </div>
 
- <h2 align="center"> 🏆 LeetCode Stats 🏆 </h2>
+
+
+<h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
 <div align="center">
-    
-  <div>
-      
-[![Suzune's Activity (Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML&range=last_7_days&layout=compact&custom_title=Suzune%27s%20Activity%20(Last%207%20Days)&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  </div>  
-  
-  <div>
-      
-![](https://leetcard.jacoblin.cool/suzune4869?ext=activity)
-        
-  </div>
-
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none; background:none;">
+  <tr>
+    <td style="border:none; background:none; padding:0 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&hide=XML&range=last_7_days&layout=compact&custom_title=Suzune%27s%20Activity%20(Last%207%20Days)&theme=dracula"
+           height="300"
+           alt="Suzune's Activity (Last 7 Days)"
+           style="border:none; outline:none; background:none; box-shadow:none;"/>
+    </td>
+    <td style="border:none; background:none; padding:0 10px;">
+      <img src="https://leetcard.jacoblin.cool/suzune4869?ext=activity"
+           height="300"
+           alt="Suzune's LeetCode Activity"
+           style="border:none; outline:none; background:none; box-shadow:none;"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
 
