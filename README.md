@@ -37,21 +37,27 @@
 
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&layout=compact&theme=dracula&custom_title=Suzune%27s%20All%20Time%20Activity&hide_border=true&langs_count=6&hide=Text,Other,JSON,Sublime%20Text%20Config,JSON%20with%20Comments,PowerShell,Java%20module,C%23,Git%20Config,GitIgnore%20file,TypeScript,IDEA_MODULE,CLASS,XML"
-    height="300"
-    alt="Suzune's All Time Activity"
-    style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255,121,198,0.5);"
-  />
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&layout=compact&theme=dracula&custom_title=Suzune%27s%20All%20Time%20Activity&hide_border=false&langs_count=6&hide=Text,Other,JSON,Sublime%20Text%20Config,JSON%20with%20Comments,PowerShell,Java%20module,C%23,Git%20Config,GitIgnore%20file,TypeScript,IDEA_MODULE,CLASS,XML"
+  height="300"
+  alt="Suzune's All Time Activity"
+  style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255,121,198,0.5);"
+/>
 
+</div>
 <div align="center">
-  <span style="display:inline-block; padding:0 10px;">
+  <span style="display:inline-block;">
     <img 
       src="https://leetcard.jacoblin.cool/suzune4869?ext=activity&theme=dark"
       height="330"
       alt="Suzune's LeetCode Activity"
-      style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255,121,198,0.5);"
+      style="
+        border: 4px solid #ff79c6;
+        border-radius: 16px;
+        padding: 6px;
+        background: linear-gradient(145deg, #1a1b26, #282a36);
+        box-shadow: 0 0 20px rgba(255,121,198,0.6), 0 0 10px rgba(189,147,249,0.4);
+      "
     />
   </span>
 </div>
