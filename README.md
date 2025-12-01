@@ -35,14 +35,15 @@
 
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
-
 <div align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Suzune&layout=compact&theme=dracula&custom_title=Suzune%27s%20All%20Time%20Activity&hide_border=false&langs_count=6&hide=Text,Other,JSON,Sublime%20Text%20Config,JSON%20with%20Comments,PowerShell,Java%20module,C%23,Git%20Config,GitIgnore%20file,TypeScript,IDEA_MODULE,CLASS,XML"
-  height="300"
-  alt="Suzune's All Time Activity"
-  style="border: 3px solid #ff79c6; border-radius: 12px; padding: 4px; box-shadow: 0 0 10px rgba(255,121,198,0.5);"
-/>
+    
+<a href="https://github.com/Suzune705">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Suzune705&theme=github-compact&custom_title=Suzune705%27s%20Contribution%20Graph&hide_border=true"
+    width="80%"
+  >
+</a>
+
 
 </div>
 <div align="center">
