@@ -40,7 +40,7 @@
 <a href="https://github.com/Suzune705">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Suzune705&theme=github-compact&custom_title=Suzune705%27s%20Contribution%20Graph&hide_border=true"
-    width="80%"
+    width="90%"
   >
 </a>
 
