@@ -12,8 +12,6 @@
    <img src="https://cdn.simpleicons.org/dbeaver/cfcfcf" height="48" />
 </div>
 
-
-
 <br/>
   
 
@@ -26,6 +24,8 @@
  
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Suzune705&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
+
+
   
 </div>
 
