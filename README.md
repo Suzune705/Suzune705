@@ -39,37 +39,34 @@
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2042%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 30.6 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I Mostly Code in Java** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Java                     6 repos             ███████████████░░░░░░░░░░   60.00 % 
-TSQL                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Java                     21 hrs 10 mins      ██████████████████░░░░░░░   70.75 % 
+Markdown                 3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+SQL                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
+🔥 Editors: 
+IntelliJ IDEA            17 hrs 16 mins      ██████████████░░░░░░░░░░░   57.75 % 
+NetBeans                 7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+SSMS20                   3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Sublime Text             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Suzune705/Suzune705/master/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2026 05:47:02 UTC
+ Last Updated on 13/01/2026 06:09:06 UTC
 <!--END_SECTION:waka-->
 
 
