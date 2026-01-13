@@ -44,8 +44,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
 💬 Programming Languages: 
 Java                     21 hrs 10 mins      ██████████████████░░░░░░░   70.75 % 
 Markdown                 3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
@@ -61,12 +59,8 @@ Sublime Text             1 hr 15 mins        █░░░░░░░░░░�
 Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Suzune705/Suzune705/master/assets/bar_graph.png)
-
-
- Last Updated on 13/01/2026 06:09:06 UTC
+ Last Updated on 13/01/2026 06:12:56 UTC
 <!--END_SECTION:waka-->
 
 
