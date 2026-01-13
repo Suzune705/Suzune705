@@ -39,6 +39,37 @@
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 30.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ███████████████░░░░░░░░░░   60.00 % 
+TSQL                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Suzune705/Suzune705/master/assets/bar_graph.png)
+
+
+ Last Updated on 13/01/2026 05:47:02 UTC
 <!--END_SECTION:waka-->
 
 
