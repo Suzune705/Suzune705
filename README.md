@@ -29,12 +29,7 @@
   
 </div>
 
-<div align="center">
-    
-<img src="https://my-readme-stats-eight.vercel.app/api/top-langs/?username=Suzune705&theme=dracula&hide_border=false&layout=compact" height="170"/>
 
-
-</div>
 
 <h2 align="center"> 🏆 Coding Activity & LeetCode 🏆 </h2>
 
