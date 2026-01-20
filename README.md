@@ -65,8 +65,8 @@ TypeScript               1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!--WakaTime-Start--> 
-
+<!--WakaTime-Start-->
+<pre><h2>Last 7 Days</h2>Java             21 hrs 56 mins ████████████████░░░░░░░░░  66.65 %</br>Other              5 hrs 8 mins ████░░░░░░░░░░░░░░░░░░░░░  15.60 %</br>Markdown           1 hr 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.18 %</br>HTML                1 hr 7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43 %</br>SQL                  1 hr 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>864 hrs 55 mins</br><strong>Timespan:           </strong>299 days</br><strong>Daily average:      </strong>2 hr(s) 52 min(s)</pre>
 <!--WakaTime-End-->
 
 <div align="center">
