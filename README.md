@@ -20,10 +20,10 @@
 <div align="center">
 
 
- <img src="https://my-readme-stats-eight.vercel.app/api?username=Suzune705&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+ <img src="https://my-readme-stats-eight.vercel.app/api?username=chuminhhieu779&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
  
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Suzune705&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chuminhhieu779&theme=dracula&hide_border=false&cache_seconds=1" height="170"/>
 
 
   
@@ -72,7 +72,7 @@ TypeScript               1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
     
 <a href="https://github.com/Suzune705">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Suzune705&theme=github-compact&custom_title=Suzune705%27s%20Contribution%20Graph&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chuminhhieu779&theme=github-compact&custom_title=Suzune705%27s%20Contribution%20Graph&hide_border=true"
     width="90%"
   >
 </a>
