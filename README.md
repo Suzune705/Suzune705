@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%206%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+**💻 My Coding Time — Last 7 Days**
 
 ```text
 💬 Programming Languages: 
@@ -54,7 +54,7 @@ SSMS20                   42 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 VS Code                  16 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.55 % 
 ```
 
-**I Mostly Code in Java** 
+**😎 I Mostly Code in Java**
 
 ```text
 Java                     6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.67 % 
